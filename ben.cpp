@@ -5,6 +5,6 @@
 
 #include <iostream>
 
-std::cout << "hey" << endl;
+std::cout << "hello" << endl;
 
 // Modif
