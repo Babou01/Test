@@ -3,5 +3,3 @@
 //
 
 #include "alice.h"
-
-bonjour tout le monde
