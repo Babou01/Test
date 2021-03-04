@@ -13,7 +13,7 @@ std::cout << "hey" << endl;
 std::cout << "hey" << endl;
 std::cout << "hey" << endl;
 std::cout << "heeeey" << endl;
-std::cout << "Cedric" << endl;
+std::cout << "Cedriiiiiic" << endl;
     std::cout << "hey" << endl;
 
     when we create a vector space, we're' going to revolutioon the wolrd
