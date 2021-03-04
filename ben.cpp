@@ -4,19 +4,16 @@
 //
 
 #include <iostream>
+using namespace std;
 
-std::cout << "hello" << endl;
-std::cout << "hey" << endl;
-std::cout << "hey" << endl;
-std::cout << "hey" << endl;
-std::cout << "hey" << endl;
-std::cout << "hey" << endl;
-std::cout << "hey" << endl;
-std::cout << "heeeey" << endl;
-std::cout << "Cedriiiiiic" << endl;
-    std::cout << "hey" << endl;
+int main() {
 
-    when we create a vector space, we're' going to revolutioon the wolrd
+    cout << "Cedriiiiiic" << endl;
+
+    return 0;
+}
+
+    //when we create a vector space, we're' going to revolutioon the wolrd
 
     // vectorspace
 
