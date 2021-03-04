@@ -16,7 +16,7 @@ std::cout << "heeeey" << endl;
 std::cout << "Cedriiiiiic" << endl;
     std::cout << "hey" << endl;
 
-    when we create a vector space, we're' going to revolutioon the wolrd
+    //when we create a vector space, we're' going to revolutioon the wolrd
 
     // vectorspace
 
