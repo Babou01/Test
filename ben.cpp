@@ -8,7 +8,7 @@ using namespace std;
 
 int main() {
 
-    cout << "Cedriiiiiic" << endl;
+    cout << "Salut Benoit" << endl;
 
     return 0;
 }
