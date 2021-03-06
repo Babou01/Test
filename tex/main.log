@@ -1,0 +1,1903 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2021.2.24)  6 MAR 2021 20:48
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-10-05> xparse <2020-03-03>
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
+File: bk12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@chapter=\count176
+\c@section=\count177
+\c@subsection=\count178
+\c@subsubsection=\count179
+\c@paragraph=\count180
+\c@subparagraph=\count181
+\c@figure=\count182
+\c@table=\count183
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2020/10/06 3.50 The Babel package
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2020/10/06 3.50 Babel common definitions
+\babel@savecnt=\count184
+\U@D=\dimen139
+\l@babelnohyphens=\language79
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count185
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french.l
+df
+Language: french 2020/10/10 v3.5l French support from the babel system
+Package babel Info: \l@acadian = using hyphenrules for french
+(babel)             (\language22) on input line 91.
+Package babel Info: \l@canadien = using hyphenrules for french
+(babel)             (\language22) on input line 92.
+\FB@nonchar=\count186
+Package babel Info: Making : an active character on input line 430.
+Package babel Info: Making ; an active character on input line 431.
+Package babel Info: Making ! an active character on input line 432.
+Package babel Info: Making ? an active character on input line 433.
+\FBguill@level=\count187
+\FBold@everypar=\toks17
+\FB@Mht=\dimen140
+\mc@charclass=\count188
+\mc@charfam=\count189
+\mc@charslot=\count190
+\std@mcc=\count191
+\dec@mcc=\count192
+\listindentFB=\dimen141
+\descindentFB=\dimen142
+\labelindentFB=\dimen143
+\labelwidthFB=\dimen144
+\leftmarginFB=\dimen145
+\parindentFFN=\dimen146
+\FBfnindent=\dimen147
+))
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen148
+))
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen149
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count193
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count194
+\leftroot@=\count195
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count196
+\DOTSCASE@=\count197
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen150
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count198
+\c@MaxMatrixCols=\count199
+\dotsspace@=\muskip16
+\c@parentequation=\count266
+\dspbrk@lvl=\count267
+\tag@help=\toks20
+\row@=\count268
+\column@=\count269
+\maxfields@=\count270
+\andhelp@=\toks21
+\eqnshift@=\dimen151
+\alignsep@=\dimen152
+\tagshift@=\dimen153
+\tagwidth@=\dimen154
+\totwidth@=\dimen155
+\lineht@=\dimen156
+\@envbody=\toks22
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count271
+\Gm@cntv=\count272
+\c@Gm@tempcnt=\count273
+\Gm@bindingoffset=\dimen157
+\Gm@wd@mp=\dimen158
+\Gm@odd@mp=\dimen159
+\Gm@even@mp=\dimen160
+\Gm@layoutwidth=\dimen161
+\Gm@layoutheight=\dimen162
+\Gm@layouthoffset=\dimen163
+\Gm@layoutvoffset=\dimen164
+\Gm@dimlist=\toks24
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/tools\afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks25
+\AP@partial=\box49
+\AP@footins=\box50
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/changepage\changepage.s
+ty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count274
+\cp@tempcnt=\count275
+) (C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks26
+\verbatim@line=\toks27
+\verbatim@in@stream=\read3
+) (C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks28
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip52
+\enit@outerparindent=\dimen165
+\enit@toks=\toks29
+\enit@inbox=\box51
+\enit@count@id=\count276
+\enitdp@description=\count277
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/units\nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip53
+\L@UnitsRaiseTextstyle=\skip54
+\L@UnitsRaiseScriptstyle=\skip55
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+))
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/anyfontsize\anyfontsize
+.sty
+Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/circuitikz\circuitikz.s
+ty
+Package: circuitikz 2020/10/04{} The CircuiTikz circuit drawing package version
+ 1.2.4
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks30
+\pgfutil@tempdima=\dimen166
+\pgfutil@tempdimb=\dimen167
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common-lists.tex))
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box52
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2020/10/01 v3.1.6a (3.1.6a)
+))
+Package: pgf 2020/10/01 v3.1.6a (3.1.6a)
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen168
+\Gin@req@width=\dimen169
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2020/10/01 v3.1.6a (3.1.6a)
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks31
+\pgfkeys@temptoks=\toks32
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+filtered.code.tex
+\pgfkeys@tmptoks=\toks33
+))
+\pgf@x=\dimen170
+\pgf@y=\dimen171
+\pgf@xa=\dimen172
+\pgf@ya=\dimen173
+\pgf@xb=\dimen174
+\pgf@yb=\dimen175
+\pgf@xc=\dimen176
+\pgf@yc=\dimen177
+\pgf@xd=\dimen178
+\pgf@yd=\dimen179
+\w@pgf@writea=\write4
+\r@pgf@reada=\read4
+\c@pgf@counta=\count278
+\c@pgf@countb=\count279
+\c@pgf@countc=\count280
+\c@pgf@countd=\count281
+\t@pgf@toka=\toks34
+\t@pgf@tokb=\toks35
+\t@pgf@tokc=\toks36
+\pgf@sys@id@count=\count282
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2020/10/01 v3.1.6a (3.1.6a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+File: pgfsys-pdftex.def 2020/10/01 v3.1.6a (3.1.6a)
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2020/10/01 v3.1.6a (3.1.6a)
+)))
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgfsyssoftpath@smallbuffer@items=\count283
+\pgfsyssoftpath@bigbuffer@items=\count284
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+))
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+Package: pgfcore 2020/10/01 v3.1.6a (3.1.6a)
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen180
+\pgfmath@count=\count285
+\pgfmath@box=\box53
+\pgfmath@toks=\toks37
+\pgfmath@stack@operand=\toks38
+\pgfmath@stack@operation=\toks39
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)))
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count286
+))
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
+File: pgfcorepoints.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgf@picminx=\dimen181
+\pgf@picmaxx=\dimen182
+\pgf@picminy=\dimen183
+\pgf@picmaxy=\dimen184
+\pgf@pathminx=\dimen185
+\pgf@pathmaxx=\dimen186
+\pgf@pathminy=\dimen187
+\pgf@pathmaxy=\dimen188
+\pgf@xx=\dimen189
+\pgf@xy=\dimen190
+\pgf@yx=\dimen191
+\pgf@yy=\dimen192
+\pgf@zx=\dimen193
+\pgf@zy=\dimen194
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgf@path@lastx=\dimen195
+\pgf@path@lasty=\dimen196
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
+File: pgfcorepathusage.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgf@shorten@end@additional=\dimen197
+\pgf@shorten@start@additional=\dimen198
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
+File: pgfcorescopes.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgfpic=\box54
+\pgf@hbox=\box55
+\pgf@layerbox@main=\box56
+\pgf@picture@serial@count=\count287
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgflinewidth=\dimen199
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
+File: pgfcoretransformations.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgf@pt@x=\dimen256
+\pgf@pt@y=\dimen257
+\pgf@pt@temp=\dimen258
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
+File: pgfcorequick.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
+File: pgfcoreobjects.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
+File: pgfcorearrows.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgfarrowsep=\dimen259
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
+File: pgfcoreshade.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgf@max=\dimen260
+\pgf@sys@shading@range@num=\count288
+\pgf@shadingcount=\count289
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
+File: pgfcoreimage.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
+File: pgfcoreexternal.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgfexternal@startupbox=\box57
+))
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
+File: pgfcorelayers.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
+File: pgfcoretransparency.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
+File: pgfcorepatterns.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
+File: pgfcorerdf.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)))
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex
+File: pgfmoduleshapes.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgfnodeparttextbox=\box58
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex
+File: pgfmoduleplot.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty
+Package: pgfcomp-version-0-65 2020/10/01 v3.1.6a (3.1.6a)
+\pgf@nodesepstart=\dimen261
+\pgf@nodesepend=\dimen262
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty
+Package: pgfcomp-version-1-18 2020/10/01 v3.1.6a (3.1.6a)
+))
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex
+Package: pgffor 2020/10/01 v3.1.6a (3.1.6a)
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex)
+\pgffor@iter=\dimen263
+\pgffor@skip=\dimen264
+\pgffor@stack=\toks40
+\pgffor@toks=\toks41
+))
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+Package: tikz 2020/10/01 v3.1.6a (3.1.6a)
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgf@plot@mark@count=\count290
+\pgfplotmarksize=\dimen265
+)
+\tikz@lastx=\dimen266
+\tikz@lasty=\dimen267
+\tikz@lastxsaved=\dimen268
+\tikz@lastysaved=\dimen269
+\tikz@lastmovetox=\dimen270
+\tikz@lastmovetoy=\dimen271
+\tikzleveldistance=\dimen272
+\tikzsiblingdistance=\dimen273
+\tikz@figbox=\box59
+\tikz@figbox@bg=\box60
+\tikz@tempbox=\box61
+\tikz@tempbox@bg=\box62
+\tikztreelevel=\count291
+\tikznumberofchildren=\count292
+\tikznumberofcurrentchild=\count293
+\tikz@fig@count=\count294
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex
+File: pgfmodulematrix.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgfmatrixcurrentrow=\count295
+\pgfmatrixcurrentcolumn=\count296
+\pgf@matrix@numberofcolumns=\count297
+)
+\tikz@expandcount=\count298
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)))
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgfarrowinset=\dimen274
+\pgfarrowlength=\dimen275
+\pgfarrowwidth=\dimen276
+\pgfarrowlinewidth=\dimen277
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarybending.code.tex
+File: tikzlibrarybending.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+bending.code.tex
+File: pgfmodulebending.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+nonlineartransformations.code.tex
+File: pgfmodulenonlineartransformations.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgftransformnonlinearflatness=\dimen278
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+arycurvilinear.code.tex
+File: pgflibrarycurvilinear.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgf@curvilinear@time@a=\dimen279
+\pgf@curvilinear@length@a=\dimen280
+\pgf@curvilinear@length@b=\dimen281
+\pgf@curvilinear@length@c=\dimen282
+\pgf@curvilinear@length@d=\dimen283
+)
+\pgf@arrows@the@rigidity=\dimen284
+))
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryfpu.code.tex
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryfpu.code.tex))
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirc.de
+fines.tex
+\pgf@circ@count@a=\count299
+\pgf@circ@count@b=\count300
+\pgf@circ@count@c=\count301
+\pgf@circ@res@up=\dimen285
+\pgf@circ@res@down=\dimen286
+\pgf@circ@res@zero=\dimen287
+\pgf@circ@res@left=\dimen288
+\pgf@circ@res@right=\dimen289
+\pgf@circ@res@other=\dimen290
+\pgf@circ@res@step=\dimen291
+\pgf@circ@res@temp=\dimen292
+\pgf@circ@Rlen=\dimen293
+\pgf@circ@scaled@Rlen=\dimen294
+\pgfstartlinewidth=\dimen295
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircuti
+ls.tex)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircsha
+pes.tex)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircmon
+opoles.tex)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircbip
+oles.tex)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirctri
+poles.tex
+\pgf@circ@res@count=\count302
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircqua
+dpoles.tex)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircmul
+tipoles.tex)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirclab
+el.tex)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircvol
+tage.tex
+\pgfcirc@labelshift=\dimen296
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirccur
+rent.tex)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircflo
+w.tex)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircpat
+h.tex)
+
+Package circuitikz Warning: You did not specify one of the voltage directions:
+(circuitikz)                  oldvoltagedirection, nooldvoltagedirection, 
+(circuitikz)                  RPvoltages or EFvoltages 
+(circuitikz)                Default directions may have changed, 
+(circuitikz)                please check the manual.
+
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarybabel.code.tex
+File: tikzlibrarybabel.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/chemfig\chemfig.sty
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/chemfig\chemfig.tex
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/simplekv\simplekv.tex
+Package: simplekv 2020/04/27 v0.2 Simple keyval package (CT)
+)
+\CF_cntatomgroup=\count303
+\CF_cntgroup=\count304
+\CF_cntatom=\count305
+\CF_cntcycle=\count306
+\CF_cntcyclebonds=\count307
+\CF_cntcompound=\count308
+\CF_dim=\dimen297
+\CF_arrowsize=\dimen298
+\CF_zero=\dimen299
+\CF_boxlewis=\box63
+\CF_box=\box64
+\CF_boxstuff=\box65
+\CF_testbox=\box66
+\CF_chargebox=\box67
+\CF_substtoks=\toks42
+)
+Package: chemfig 2020/07/13 v1.56 Draw molecule with an easy syntax (CT)
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/musixtex\musixtex.sty
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/musixtex\musixtex.tex
+MusiXTeX(c) 1.31 <2021-01-07>
+\n@i=\count309
+\n@ii=\count310
+\n@iii=\count311
+\n@iv=\count312
+\n@v=\count313
+\n@vi=\count314
+\n@vii=\count315
+\n@viii=\count316
+\count@=\count317
+\toks@box=\box68
+\w@rkbox=\box69
+\n@otebox=\box70
+\y@=\dimen300
+\y@i=\dimen301
+\y@ii=\dimen302
+\y@iii=\dimen303
+\y@iv=\dimen304
+\y@v=\dimen305
+\group@no=\count318
+\interinstrument=\dimen306
+\N@s=\count319
+\s@Y=\dimen307
+\lin@pos=\dimen308
+\meet@minus@n@iv=\count320
+\interbeam=\dimen309
+\b@amthick=\dimen310
+\Interligne=\dimen311
+\Internote=\dimen312
+\ch@box=\box71
+\musicsize=\count321
+\qd@skip=\dimen313
+\qn@width=\dimen314
+\wn@width=\dimen315
+\txt@ff=\skip56
+\s@indent=\skip57
+\big@spc=\skip58
+\lthick=\dimen316
+\afterruleskip=\skip59
+\staffbotmarg=\dimen317
+\stafftopmarg=\dimen318
+\line@width=\dimen319
+\interportee=\dimen320
+\noport@@=\count322
+\noinstrum@nt=\count323
+\altportee=\dimen321
+\systemheight=\dimen322
+\altplancher=\dimen323
+\instrum@in@group=\skip60
+\boxitsep=\skip61
+\barsinpi@c@=\count324
+\barno=\count325
+\startbarno=\count326
+\sign@skip=\dimen324
+\maxsign@skip=\dimen325
+\x@skip=\dimen326
+\n@skip=\dimen327
+\beforeruleskip=\skip62
+\widthtyp@=\count327
+\lastbarno=\count328
+\cut@v=\skip63
+\init@volta@pos=\skip64
+\volta@startcor=\skip65
+\volta@endcor=\skip66
+\writ@volta@box=\box72
+\barsinlin@=\count329
+\maxbarsinlin@=\count330
+\lastbarpos=\skip67
+\ut@ref=\count331
+\meterskip=\skip68
+\t@c=\toks43
+\clef@skip=\skip69
+\noteskip=\dimen328
+\transpose=\count332
+\normaltranspose=\count333
+\locx@skip=\dimen329
+\elemskip=\dimen330
+\@l@mskip=\dimen331
+\inh@alt=\count334
+\st@bot=\dimen332
+\st@top=\dimen333
+\stem@skip=\dimen334
+\s@lope=\dimen335
+\y@vi=\dimen336
+\lift@rest=\dimen337
+\accshift=\skip70
+\@icresc=\skip71
+\pdl@pos=\dimen338
+\bigwedgebox=\box73
+\@itrillei=\skip72
+\@itrilleii=\skip73
+\@itrilleiii=\skip74
+\@itrilleiv=\skip75
+\@itrillev=\skip76
+\@itrillevi=\skip77
+\tr@number=\count335
+\tr@nspose=\count336
+\o@swz=\toks44
+\o@number=\count337
+\y@vii=\dimen339
+\y@viii=\dimen340
+\y@ix=\dimen341
+\tuptxtb@x=\box74
+\notes@open=\count338
+\k@ii=\skip78
+\i@ni=\dimen342
+\b@xi=\dimen343
+\b@zi=\dimen344
+\c@xi=\dimen345
+\c@zi=\skip79
+\d@xi=\dimen346
+\d@zi=\skip80
+\e@xi=\dimen347
+\e@zi=\skip81
+\b@pi=\count339
+\b@ni=\count340
+\n@pi=\count341
+\a@si=\count342
+\o@si=\count343
+\a@ci=\toks45
+\o@ci=\toks46
+\m@ti=\toks47
+\k@iii=\skip82
+\i@nii=\dimen348
+\b@xii=\dimen349
+\b@zii=\dimen350
+\c@xii=\dimen351
+\c@zii=\skip83
+\d@xii=\dimen352
+\d@zii=\skip84
+\e@xii=\dimen353
+\e@zii=\skip85
+\b@pii=\count344
+\b@nii=\count345
+\n@pii=\count346
+\a@sii=\count347
+\o@sii=\count348
+\a@cii=\toks48
+\o@cii=\toks49
+\m@tii=\toks50
+\k@iiii=\skip86
+\i@niii=\dimen354
+\b@xiii=\dimen355
+\b@ziii=\dimen356
+\c@xiii=\dimen357
+\c@ziii=\skip87
+\d@xiii=\dimen358
+\d@ziii=\skip88
+\e@xiii=\dimen359
+\e@ziii=\skip89
+\b@piii=\count349
+\b@niii=\count350
+\n@piii=\count351
+\a@siii=\count352
+\o@siii=\count353
+\a@ciii=\toks51
+\o@ciii=\toks52
+\m@tiii=\toks53
+\k@iiv=\skip90
+\i@niv=\dimen360
+\b@xiv=\dimen361
+\b@ziv=\dimen362
+\c@xiv=\dimen363
+\c@ziv=\skip91
+\d@xiv=\dimen364
+\d@ziv=\skip92
+\e@xiv=\dimen365
+\e@ziv=\skip93
+\b@piv=\count354
+\b@niv=\count355
+\n@piv=\count356
+\a@siv=\count357
+\o@siv=\count358
+\a@civ=\toks54
+\o@civ=\toks55
+\m@tiv=\toks56
+\k@iv=\skip94
+\i@nv=\dimen366
+\b@xv=\dimen367
+\b@zv=\dimen368
+\c@xv=\dimen369
+\c@zv=\skip95
+\d@xv=\dimen370
+\d@zv=\skip96
+\e@xv=\dimen371
+\e@zv=\skip97
+\b@pv=\count359
+\b@nv=\count360
+\n@pv=\count361
+\a@sv=\count362
+\o@sv=\count363
+\a@cv=\toks57
+\o@cv=\toks58
+\m@tv=\toks59
+\k@ivi=\skip98
+\i@nvi=\dimen372
+\b@xvi=\dimen373
+\b@zvi=\dimen374
+\c@xvi=\dimen375
+\c@zvi=\skip99
+\d@xvi=\dimen376
+\d@zvi=\skip100
+\e@xvi=\dimen377
+\e@zvi=\skip101
+\b@pvi=\count364
+\b@nvi=\count365
+\n@pvi=\count366
+\a@svi=\count367
+\o@svi=\count368
+\a@cvi=\toks60
+\o@cvi=\toks61
+\m@tvi=\toks62
+maxinstruments=6
+\f@xi=\dimen378
+\f@zi=\skip102
+\f@xii=\dimen379
+\f@zii=\skip103
+\f@xiii=\dimen380
+\f@ziii=\skip104
+\f@xiv=\dimen381
+\f@ziv=\skip105
+\f@xv=\dimen382
+\f@zv=\skip106
+\f@xvi=\dimen383
+\f@zvi=\skip107
+ max128beams=6
+\g@bi=\skip108
+\g@hi=\skip109
+\g@bii=\skip110
+\g@hii=\skip111
+\g@biii=\skip112
+\g@hiii=\skip113
+ maxgroups=3
+\s@xi=\dimen384
+\s@si=\toks63
+\s@Yi=\dimen385
+\s@ai=\skip114
+\s@yi=\count369
+\s@Ni=\count370
+\s@zi=\count371
+\s@di=\toks64
+\s@xii=\dimen386
+\s@sii=\toks65
+\s@Yii=\dimen387
+\s@aii=\skip115
+\s@yii=\count372
+\s@Nii=\count373
+\s@zii=\count374
+\s@dii=\toks66
+\s@xiii=\dimen388
+\s@siii=\toks67
+\s@Yiii=\dimen389
+\s@aiii=\skip116
+\s@yiii=\count375
+\s@Niii=\count376
+\s@ziii=\count377
+\s@diii=\toks68
+\s@xiv=\dimen390
+\s@siv=\toks69
+\s@Yiv=\dimen391
+\s@aiv=\skip117
+\s@yiv=\count378
+\s@Niv=\count379
+\s@ziv=\count380
+\s@div=\toks70
+\s@xv=\dimen392
+\s@sv=\toks71
+\s@Yv=\dimen393
+\s@av=\skip118
+\s@yv=\count381
+\s@Nv=\count382
+\s@zv=\count383
+\s@dv=\toks72
+\s@xvi=\dimen394
+\s@svi=\toks73
+\s@Yvi=\dimen395
+\s@avi=\skip119
+\s@yvi=\count384
+\s@Nvi=\count385
+\s@zvi=\count386
+\s@dvi=\toks74
+ maxslurs=6
+\tr@xi=\skip120
+\tr@swi=\toks75
+\tr@yi=\skip121
+\tr@xii=\skip122
+\tr@swii=\toks76
+\tr@yii=\skip123
+\tr@xiii=\skip124
+\tr@swiii=\toks77
+\tr@yiii=\skip125
+\tr@xiv=\skip126
+\tr@swiv=\toks78
+\tr@yiv=\skip127
+\tr@xv=\skip128
+\tr@swv=\toks79
+\tr@yv=\skip129
+\tr@xvi=\skip130
+\tr@swvi=\toks80
+\tr@yvi=\skip131
+ maxtrills=6
+\o@xi=\skip132
+\o@yi=\skip133
+\o@swi=\toks81
+\o@xii=\skip134
+\o@yii=\skip135
+\o@swii=\toks82
+\o@xiii=\skip136
+\o@yiii=\skip137
+\o@swiii=\toks83
+\o@xiv=\skip138
+\o@yiv=\skip139
+\o@swiv=\toks84
+\o@xv=\skip140
+\o@yv=\skip141
+\o@swv=\toks85
+\o@xvi=\skip142
+\o@yvi=\skip143
+\o@swvi=\toks86
+
+maxoctlines=6
+\outmux=\write5
+\mulooseness=\count387
+\linegoal=\count388
+\l@eftrightbox=\box75
+\stringraise=\count389
+\inmux=\read5
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/musixtex\musixltx.tex
+MusiXLaTeX T.125 <8 April 2017>
+)) (C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/qrcode\qrcode.sty
+Package: qrcode 2015/01/08 v1.51 QR code generation
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks87
+\XKV@tempa@toks=\toks88
+)
+\XKV@depth=\count390
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\c@qr@i=\count391
+\c@qr@j=\count392
+\qr@a=\count393
+\qr@b=\count394
+\qr@c=\count395
+\qr@for@depth=\count396
+\qr@for@maxdepth=\count397
+\qr@for@start=\count398
+\qr@for@end=\count399
+\qr@for@step=\count400
+\qr@newforcount=\count401
+\qr@newforcount=\count402
+\qr@desiredheight=\skip144
+\qr@modulesize=\skip145
+\qr@minipagewidth=\skip146
+\c@maski=\count403
+\c@maskj=\count404
+\c@totalones=\count405
+\c@penaltyi=\count406
+\c@penaltyii=\count407
+\c@penaltyiii=\count408
+\c@penaltyiv=\count409
+\c@qr@hexchars=\count410
+\qr@newforcount=\count411
+\c@qr@divisionsremaining=\count412
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/ean13isbn\ean13isbn.sty
+Package: ean13isbn 2008/06/20 EAN13 with ISBN
+Package ean13isbn Info: $Id: ean13isbn.sty 208 2008-06-19 23:25:37Z zw $.
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/ean\ean13.tex
+The EAN-13 barcodes macro. Copyright (C) Petr Olsak, 1995
+\numlines=\count413
+\nummodules=\count414
+\numdigit=\count415
+\evensum=\count416
+\oddsum=\count417
+\X=\dimen396
+\bcorr=\dimen397
+\workdimen=\dimen398
+\barheight=\dimen399
+)
+\zw@isbnfsize=\dimen400
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/xskak\xskak.sty
+Package: xskak 2019/06/23 version v1.5 extended chess typesetting and parsing
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/skak\skak.sty
+Package: skak 2018/01/08 v1.5.3 Chess typesetting
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/chessfss\chessfss.sty
+Package: chessfss 2006/06/14 v1.2a chess font selection scheme
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/chessfss\lsbenc.def
+File: lsbenc.def 2006/06/09 v1.2 Standard LaTeX file
+Now handling font encoding LSB ...
+... no UTF-8 mapping file for font encoding LSB
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/chessfss\lsfenc.def
+File: lsfenc.def 2006/06/09 v1.2 Standard LaTeX file
+Now handling font encoding LSF ...
+... no UTF-8 mapping file for font encoding LSF
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/chessfss\lsienc.def
+File: lsienc.def 2006/06/09 v1.2 Standard LaTeX file
+Now handling font encoding LSI ...
+... no UTF-8 mapping file for font encoding LSI
+)
+\len@cfss@squarewidth=\skip147
+\len@cfss@squaretotalheight=\skip148
+\len@cfss@squaredepth=\skip149
+
+
+Package chessfss Warning: \comment already defined 
+(chessfss)                I will not overwrite it on input line 590.
+
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/lambda-lists\lambda.s
+ty) (C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count418
+\calc@Bcount=\count419
+\calc@Adimen=\dimen401
+\calc@Bdimen=\dimen402
+\calc@Askip=\skip150
+\calc@Bskip=\skip151
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count420
+\calc@Cskip=\skip152
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+\c@fileFrom=\count421
+\c@rankFrom=\count422
+\c@fileTo=\count423
+\c@rankTo=\count424
+\c@ps@inverse=\count425
+\c@ps@knightangle=\count426
+\c@halfmove=\count427
+\c@move=\count428
+\c@helpgobble=\count429
+\c@helpnumber=\count430
+\c@helpnumberMove=\count431
+\squarelength=\skip153
+\square@multiplier=\count432
+\ranklift=\skip154
+LaTeX Font Info:    Trying to load font information for LSB+skaknew on input li
+ne 1774.
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/chessfss\lsbskaknew.fd
+File: lsbskaknew.fd 2006/03/31 v1.0 Chess font definitions
+)
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 1
+774.
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+
+LaTeX Font Warning: Font shape `T1/lmss/m/up' undefined
+(Font)              using `T1/lmss/m/n' instead on input line 1774.
+
+\store@toks=\toks89
+) (C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/xifthen\xifthen.sty
+Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/ifmtarg\ifmtarg.sty
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+))
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count433
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/chessboard\chessboard.s
+ty
+Package: chessboard 2020/11/01 version v1.9 print chessboards
+ (C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+\len@board@tempx=\skip155
+\len@board@tempy=\skip156
+\c@cnt@board@file=\count434
+\c@cnt@board@rank=\count435
+\c@cnt@board=\count436
+\c@filelabel=\count437
+\c@ranklabel=\count438
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/chessboard\chessboard-k
+eys-main.sty
+File: chessboard-keys-main.sty 2020/11/01 version v1.9 key definitions for ches
+sboard.sty
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/chessboard\chessboard-k
+eys-pgf.sty
+File: chessboard-keys-pgf.sty 2020/11/01 version v1.9 key definitions for chess
+board.sty
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/chessboard\chessboard-p
+gf.sty
+File: chessboard-pgf.sty 2020/11/01 version v1.9 pgf code for chessboard.sty
+))
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/xskak\xskak-keys.sty
+File: xskak-keys.sty 2019/06/23 version v1.5 key definitions for xskak.sty
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/xskak\xskak-nagdef.sty
+File: xskak-nagdef.sty 2019/06/23 version v1.5 nag definitions for xskak.sty
+)
+LaTeX Info: Redefining \variation on input line 1473.
+) (C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/lettrine\lettrine.sty
+File: lettrine.sty 2020-03-14 v2.23 (Daniel Flipo)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/minifp\minifp.sty
+Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
+-based programing language.
+\MFP@loopctr=\count439
+)
+\c@DefaultLines=\count440
+\c@DefaultDepth=\count441
+\DefaultFindent=\dimen403
+\DefaultNindent=\dimen404
+\DefaultSlope=\dimen405
+\DiscardVskip=\dimen406
+\L@lbox=\box76
+\L@tbox=\box77
+\c@L@lines=\count442
+\c@L@depth=\count443
+\L@Pindent=\dimen407
+\L@Findent=\dimen408
+\L@Nindent=\dimen409
+\L@lraise=\dimen410
+\L@first=\dimen411
+\L@next=\dimen412
+\L@slope=\dimen413
+\L@height=\dimen414
+\L@novskip=\dimen415
+\L@target@ht=\dimen416
+\L@target@dp=\dimen417
+\L@target@tht=\dimen418
+\LettrineWidth=\dimen419
+\LettrineHeight=\dimen420
+\LettrineDepth=\dimen421
+\Llist@everypar=\toks90
+
+Loading lettrine.cfg
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/lettrine\lettrine.cfg))
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen422
+\WF@size=\dimen423
+\c@WF@wrappedlines=\count444
+\WF@box=\box78
+\WF@everypar=\toks91
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen424
+\captionmargin@=\dimen425
+\captionwidth=\dimen426
+\caption@tempdima=\dimen427
+\caption@indent=\dimen428
+\caption@parindent=\dimen429
+\caption@hangindent=\dimen430
+Package caption Info: Standard document class detected.
+Package caption Info: french babel package is loaded.
+)
+\c@caption@flags=\count445
+\c@continuedfloat=\count446
+Package caption Info: changepage package is loaded.
+\caption@adjustwidth@hsize=\dimen431
+\caption@adjustwidth@linewidth=\dimen432
+Package caption Info: wrapfig package is loaded.
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/sidecap\sidecap.sty
+Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
+\SC@BOXWD=\dimen433
+\SC@CAPWD=\dimen434
+\SC@tempdima=\dimen435
+\SC@tempdimb=\dimen436
+\c@SC@C=\count447
+\SC@BOX=\box79
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip157
+\f@nch@O@elh=\skip158
+\f@nch@O@erh=\skip159
+\f@nch@O@olh=\skip160
+\f@nch@O@orh=\skip161
+\f@nch@O@elf=\skip162
+\f@nch@O@erf=\skip163
+\f@nch@O@olf=\skip164
+\f@nch@O@orf=\skip165
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box80
+\beforetitleunit=\skip166
+\aftertitleunit=\skip167
+\ttl@plus=\dimen437
+\ttl@minus=\dimen438
+\ttl@toksa=\toks92
+\titlewidth=\dimen439
+\titlewidthlast=\dimen440
+\titlewidthfirst=\dimen441
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/base\fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\c@ttlp@side=\count448
+\ttlp@side=\count449
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/imakeidx\imakeidx.sty
+Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
+nous mode
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count450
+\mult@box=\box81
+\multicol@leftmargin=\dimen442
+\c@unbalance=\count451
+\c@collectmore=\count452
+\doublecol@number=\count453
+\multicoltolerance=\count454
+\multicolpretolerance=\count455
+\full@width=\dimen443
+\page@free=\dimen444
+\premulticols=\dimen445
+\postmulticols=\dimen446
+\multicolsep=\skip168
+\multicolbaselineskip=\skip169
+\partial@page=\box82
+\last@line=\box83
+\maxbalancingoverflow=\dimen447
+\mult@rightbox=\box84
+\mult@grightbox=\box85
+\mult@gfirstbox=\box86
+\mult@firstbox=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\@tempa=\box118
+\@tempa=\box119
+\@tempa=\box120
+\@tempa=\box121
+\@tempa=\box122
+\@tempa=\box123
+\@tempa=\box124
+\c@minrows=\count456
+\c@columnbadness=\count457
+\c@finalcolumnbadness=\count458
+\last@try=\dimen448
+\multicolovershoot=\dimen449
+\multicolundershoot=\dimen450
+\mult@nat@firstbox=\box125
+\colbreak@box=\box126
+\mc@col@check@num=\count459
+))
+\main@idxfile=\write6
+\openout6 = `main.idx'.
+
+
+Writing index file main.idx
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/background\background.s
+ty
+Package: background 2014/03/04 v2.1 background material
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/everypage\everypage.sty
+Package: everypage 2020/10/17 R2.0b Hooks to run on every page
+
+Package everypage Warning: Functionality similar to this package has recently
+(everypage)                been implemented in LaTeX. This package is now in
+(everypage)                legacy status.
+(everypage)                Please, don't use it in new documents and packages.
+
+
+Package everypage Warning: You appear to be running a version of LaTeX
+(everypage)                providing the new functionality.
+(everypage)                Doing the best to deliver the original `everypage`
+(everypage)                interface on top of it. Strict equivalence is
+(everypage)                not possible, breakage may occur.
+(everypage)                If truly needed, Use `everypage-1x` to force the
+(everypage)                loading of an older code base.
+
+))
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen451
+\ar@mcellbox=\box127
+\extrarowheight=\dimen452
+\NC@list=\toks93
+\extratabsurround=\skip170
+\backup@length=\skip171
+\ar@cellbox=\box128
+)
+\everycr=\toks94
+\minrowclearance=\skip172
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/mdwtools\footnote.sty
+Package: footnote 1997/01/28 1.13 Save footnotes around boxes
+\fn@notes=\box129
+\fn@width=\dimen453
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/footmisc\footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks95
+\footnotemargin=\dimen454
+\c@pp@next@reset=\count460
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count461
+\lst@gtempboxa=\box130
+\lst@token=\toks96
+\lst@length=\count462
+\lst@currlwidth=\dimen455
+\lst@column=\count463
+\lst@pos=\count464
+\lst@lostspace=\dimen456
+\lst@width=\dimen457
+\lst@newlines=\count465
+\lst@lineno=\count466
+\lst@maxwidth=\dimen458
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count467
+\lst@skipnumbers=\count468
+\lst@framebox=\box131
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang2.sty
+File: lstlang2.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang3.sty
+File: lstlang3.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang2.sty
+File: lstlang2.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang3.sty
+File: lstlang3.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang2.sty
+File: lstlang2.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang3.sty
+File: lstlang3.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+
+
+Package auxhook Warning: Cannot patch \document,
+(auxhook)                using \AtBeginDocument instead.
+
+)
+\@linkdim=\dimen459
+\Hy@linkcounter=\count469
+\Hy@pagecounter=\count470
+ (C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count471
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count472
+ (C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen460
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count473
+\Field@Width=\dimen461
+\Fld@charsize=\dimen462
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count474
+\c@Item=\count475
+\c@Hfootnote=\count476
+)
+Package hyperref Info: Driver: hpdftex.
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count477
+\c@bookmark@seq@number=\count478
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip173
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 249.
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/xurl\xurl.sty
+Package: xurl 2020/01/24 v 0.09 modify URL breaks
+)
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 26
+1.
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count479
+\l__pdf_internal_box=\box132
+) (main.aux (chapitres/1.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 261.
+LaTeX Font Info:    ... okay on input line 261.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 261.
+LaTeX Font Info:    ... okay on input line 261.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 261.
+LaTeX Font Info:    ... okay on input line 261.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 261.
+LaTeX Font Info:    ... okay on input line 261.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 261.
+LaTeX Font Info:    ... okay on input line 261.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 261.
+LaTeX Font Info:    ... okay on input line 261.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 261.
+LaTeX Font Info:    ... okay on input line 261.
+LaTeX Font Info:    Checking defaults for LSB/skaknew/m/n on input line 261.
+LaTeX Font Info:    ... okay on input line 261.
+LaTeX Font Info:    Checking defaults for LSF/skaknew/m/n on input line 261.
+LaTeX Font Info:    Trying to load font information for LSF+skaknew on input li
+ne 261.
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/chessfss\lsfskaknew.fd
+File: lsfskaknew.fd 2006/03/31 v1.0 Chess font definitions
+)
+LaTeX Font Info:    ... okay on input line 261.
+LaTeX Font Info:    Checking defaults for LSI/skaknew/m/n on input line 261.
+LaTeX Font Info:    Trying to load font information for LSI+skaknew on input li
+ne 261.
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/chessfss\lsiskaknew.fd
+File: lsiskaknew.fd 2006/03/31 v1.0 Chess font definitions
+)
+LaTeX Font Info:    ... okay on input line 261.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 261.
+LaTeX Font Info:    ... okay on input line 261.
+LaTeX Info: Redefining \degres on input line 261.
+LaTeX Info: Redefining \dots on input line 261.
+Package french.ldf Info: Setting StandardItemizeEnv=true for
+(french.ldf)             compatibility with enumitem package,
+(french.ldf)             reported on input line 261.
+Package french.ldf Info: Setting StandardEnumerateEnv=true for
+(french.ldf)             compatibility with enumitem package,
+(french.ldf)             reported on input line 261.
+LaTeX Info: Redefining \up on input line 261.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-33.0119pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=88.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count480
+\scratchdimen=\dimen463
+\scratchbox=\box133
+\nofMPsegments=\count481
+\nofMParguments=\count482
+\everyMPshowfont=\toks97
+\MPscratchCnt=\count483
+\MPscratchDim=\dimen464
+\MPnumerator=\count484
+\makeMPintoPDFobject=\count485
+\everyMPtoPDFconversion=\toks98
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: sidecap package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/ms\everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 126.
+)
+\CenteringLeftskip=\skip174
+\RaggedLeftLeftskip=\skip175
+\RaggedRightLeftskip=\skip176
+\CenteringRightskip=\skip177
+\RaggedLeftRightskip=\skip178
+\RaggedRightRightskip=\skip179
+\CenteringParfillskip=\skip180
+\RaggedLeftParfillskip=\skip181
+\RaggedRightParfillskip=\skip182
+\JustifyingParfillskip=\skip183
+\CenteringParindent=\skip184
+\RaggedLeftParindent=\skip185
+\RaggedRightParindent=\skip186
+\JustifyingParindent=\skip187
+)
+\c@lstlisting=\count486
+Package hyperref Info: Link coloring ON on input line 261.
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\cedri\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count487
+)
+LaTeX Info: Redefining \ref on input line 261.
+LaTeX Info: Redefining \pageref on input line 261.
+LaTeX Info: Redefining \nameref on input line 261.
+ (main.out) (main.out)
+\@outlinefile=\write7
+\openout7 = `main.out'.
+
+\openout5 = `main.mx1'.
+
+ (main.toc)
+\tf@toc=\write8
+\openout8 = `main.toc'.
+
+ [1
+
+
+{C:/Users/cedri/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+\openout2 = `chapitres/1.aux'.
+
+ (chapitres/1.tex
+Chapitre 1.
+)pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.282 \include{chapitres/1.tex}
+                                [1
+
+
+] (main.aux (chapitres/1.aux))
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  4EE68846375FD073FE9BF15B4202532B;49.
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 47652 strings out of 480237
+ 1076944 string characters out of 2880582
+ 1588813 words of memory out of 3000000
+ 63422 multiletter control sequences out of 15000+200000
+ 620624 words of font info for 182 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 122i,11n,124p,723b,424s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/cedri/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C
+:/Users/cedri/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C
+:/Users/cedri/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
+Output written on main.pdf (2 pages, 49234 bytes).
+PDF statistics:
+ 28 PDF objects out of 1000 (max. 8388607)
+ 4 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+
