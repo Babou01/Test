@@ -10,6 +10,7 @@ int main() {
 
     cout << "Salut Benoit" << endl;
 
+    cout << "Hey" << endl;
     return 0;
 }
 
